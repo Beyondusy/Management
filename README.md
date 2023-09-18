@@ -1,8 +1,8 @@
-🌹🌿 ## Personal Record Management System
+ ## Personal Record Management System 🌹🌿
 
 A Python-based Record Management System for storing and managing records. This project allows users to add, update, delete, and filter records, as well as export data to an Excel file. Additionally, it provides options to show data in various formats and allows the addition of custom fields to records.
 
-🌹🌿 ## Features
+## Features 🌹🌿
 
 - **Record Data**: Add new records with fields for Name, Mobile Number, Address, Qualification, and Status. Optionally, add custom fields.
 - **Update Data**: Modify existing records by updating fields.
@@ -14,16 +14,16 @@ A Python-based Record Management System for storing and managing records. This p
 - **Filter**: Filter records based on criteria such as Name, Mobile Number, Address, Qualification, or Status.
 - **Add New Column for Record**: Add new custom fields to existing records.
 
-## Usage
+## Usage 🌹🌿
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed.
 3. Run the `main.py` script using Python.
 4. Follow the on-screen menu options to interact with the Record Management System.
 
-## Installation
+## Installation 🌹🌿
 
 1. Clone the repository:
 
    ```bash
-   
+   https://github.com/Beyondusy/Management.git
